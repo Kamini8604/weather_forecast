@@ -1,5 +1,5 @@
 # Weather Forecast App
-Weather forecast is about the weathe conditions for any location with a clean and intuitive user interface.
+Weather forecast is about the weather conditions for any location with a clean and intuitive user interface.
 
 ## Getting Started
 1. Clone the repository
